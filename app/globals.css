@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
@@ -136,4 +138,7 @@
 
 .btn-4::after {
   background: rgba(255, 255, 255, 0.25);
+}
+html {
+  scrollbar-gutter: stable;
 }
