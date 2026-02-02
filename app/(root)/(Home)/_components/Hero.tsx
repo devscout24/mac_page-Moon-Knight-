@@ -3,6 +3,7 @@ import {
 } from "@/components/ui/dropdown-menu"
 import { Search } from "lucide-react"
 import Image from "next/image"
+import Link from "next/link"
 
 const isLoggedIn = false 
 
@@ -69,7 +70,7 @@ const Hero = () => {
                 asChild
                 className="group relative overflow-hidden bg-[#F97316] hover:bg-[#F97316] text-white w-[209px] h-[60px]"
               >
-                <a className="relative flex items-center gap-2">
+                <Link href="#" className="relative flex items-center gap-2">
                   <span className="relative z-10 text-[22px] text-white font-medium">
                    Become a Host
                   </span>
@@ -85,7 +86,7 @@ const Hero = () => {
                       group-hover:left-[120%]
                     "
                   />
-                </a>
+                </Link>
               </Button>
             </>
           )}
