@@ -9,7 +9,11 @@ const isLoggedIn = false
 
 const Hero = () => {
   return (
+<<<<<<< HEAD
     <section className="max-w-[1280px] mx-auto relative h-[740px] w-full overflow-hidden rounded-4xl mt-25">
+=======
+    <section className="max-w-[1280px] mx-auto relative h-[740px] w-full overflow-hidden rounded-4xl">
+>>>>>>> 5a17f9262e4aea0c4336617aa3ee644691db08ce
       
       <Image
         src="/images/Hero.png" 
