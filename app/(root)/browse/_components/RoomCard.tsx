@@ -26,7 +26,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "25/week",
     city: "Dublin",
     title: "Sunny room near Trinity College",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -42,7 +42,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "City Center",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -58,7 +58,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -74,7 +74,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -90,7 +90,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -106,7 +106,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -122,7 +122,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -138,7 +138,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -154,7 +154,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -170,7 +170,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -186,7 +186,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -202,7 +202,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",
@@ -218,7 +218,7 @@ export const featuredCategoryData: FeaturedCategory[] = [
     featured: "30/week",
     city: "Rotterdam",
     title: "Cozy single room in City Center",
-    description: "A cozy room in a quiet residential area. 10 mins walk to city center, Includes high-speed WiFi and a study desk...",
+    description: "A comfortable single room perfect for students, located in the heart of the city. Close to universities, public transport, and all amenities. The room is fully furnished with a comfortable bed, study desk, and wardrobe. Shared kitchen and bathroom facilities are modern and well-maintained.     ",
     amenities: [
       "/icons/Frame.svg",
       "/icons/cil_bed.svg",

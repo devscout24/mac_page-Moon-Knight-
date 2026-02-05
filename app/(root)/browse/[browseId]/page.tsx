@@ -1,12 +1,16 @@
-"use client"
+"use client";
 
-import { useParams } from "next/navigation"
-import RoomDetailsPage from "./_components/SingleRoomDetails"
+import { useParams } from "next/navigation";
+import RoomDetailsPage from "./_components/SingleRoomDetails";
 
-export default function RoomDetails() {
-  const params = useParams()
-  const roomId = Number(params.id)
+const RoomDetails = () => {
+  const params = useParams();
 
-  // roomId is now passed as prop
-  return <RoomDetailsPage roomId={roomId} />
-}
+  return (
+    <div className="mt-15">
+      <RoomDetailsPage roomId={params.browseId as string} />
+    </div>
+  );
+};
+
+export default RoomDetails;
